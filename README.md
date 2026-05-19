@@ -65,6 +65,8 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60b4b71b-291f-415d-8fdf-2f77cb097243" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3133c085-692b-450b-872a-76a0b53eb850" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4f68043f-15f5-4180-bca0-1a337603f491" />
+
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
