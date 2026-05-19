@@ -86,15 +86,11 @@
 
 <h3 align="left">🛠️ My projects:</h3>
 
-<!-- Tarjeta del Repositorio 1 -->
-<a href="https://github.com/MAPRO7/Proyecto_SIU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MAPRO7&repo=Proyecto_SIU&theme=radical" />
-</a>
 
-<!-- Tarjeta del Repositorio 2 (Opcional, puedes poner una al lado de la otra) -->
-<a href="https://github.com/TU_USUARIO/OTRO_REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=OTRO_REPOSITORIO&theme=radical" />
-</a>
+https://github.com/MAPRO7/Proyecto_SIU
+
+
+https://github.com/MAPRO7/Proyecto_SIU
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
