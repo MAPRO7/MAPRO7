@@ -18,12 +18,12 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at Castro Carazo University in Costa Rica.
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :school: I'm a graduate student at Castro Carazo University in Costa Rica.
+- :trophy:  I currently work in Frontend Development and Data Science.
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :boom: You can visit my Instagram page, D_ARTEZANO, to see my content.
+- :email: Feel free to contact me. Email me at: maryethgprado@gmail.com
+- :nerd_face: "Knowledge is power."
 
 <br>
 
@@ -134,6 +134,6 @@
 
 -----------
 
-Credit: [ElioChiu](https://github.com/ElioChiu)
+Credit: Maryeth Prado
 
-Last Edited on: 10/7/2023
+Last Edited on: 20/3/2026
