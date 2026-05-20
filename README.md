@@ -6,7 +6,7 @@
 <img width="1080" height="400" alt="BANNERR" src="https://github.com/user-attachments/assets/ef0dd0eb-63b0-4ac1-8767-e4e1fd3278e0" />
 
 
-<h1 align="center">Hi, Welcome to El ARTE ZANO <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+<h1 align="center">Hi, Welcome to El ARTEZANO <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 </h1>
 <h3 font-size="20" align="center">A passionate engineer from Costa Rica.</h3>
