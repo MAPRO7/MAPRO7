@@ -3,7 +3,8 @@
 
 <!--h1 without bottom border-->
 
-<img width="1100" height="300" alt="Imgen EL ARTEZANO banner" src="https://github.com/user-attachments/assets/0bf6e993-906c-419a-adaf-065da8299b63" />
+<img width="1080" height="400" alt="BANNERR" src="https://github.com/user-attachments/assets/ef0dd0eb-63b0-4ac1-8767-e4e1fd3278e0" />
+
 
 <h1 align="center">Hi, Welcome to El ARTE ZANO <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
