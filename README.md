@@ -3,8 +3,9 @@
 
 <!--h1 without bottom border-->
 
-<img width="1080" height="254" alt="Banner" src="https://github.com/user-attachments/assets/ff73775a-268b-43d3-b456-b061fe115947" />
-<h1 align="center">Hi, I'm Maryeth Prado <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+<img width="1100" height="300" alt="Imgen EL ARTEZANO banner" src="https://github.com/user-attachments/assets/0bf6e993-906c-419a-adaf-065da8299b63" />
+
+<h1 align="center">Hi, Welcome to El ARTE ZANO <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 </h1>
 <h3 font-size="20" align="center">A passionate engineer from Costa Rica.</h3>
